@@ -2,7 +2,7 @@
     "name": "citeproc-csl-schemata",
     "version": "1.0.0",
     "description": "CSL and CSL-M schemata for citeproc-test-runner",
-    "main": "getSchemaPaths",
+    "main": "getSchemaPaths.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
