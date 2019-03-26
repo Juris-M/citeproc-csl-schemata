@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Juris-M/citeproc-csl-schemata.git"
+    "url": "git+https://github.com/Juris-M/schema.git"
   },
   "author": "Frank Bennett <biercenator@gmail.com>",
   "license": "MIT",
