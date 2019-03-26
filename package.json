@@ -1,0 +1,19 @@
+{
+  "name": "citeproc-csl-schemata",
+  "version": "1.0.0",
+  "description": "CSL and CSL-M schemata for citeproc-test-runner",
+  "main": "getSchemaPaths",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juris-M/citeproc-csl-schemata.git"
+  },
+  "author": "Frank Bennett <biercenator@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juris-M/citeproc-csl-schemata/issues"
+  },
+  "homepage": "https://github.com/Juris-M/citeproc-csl-schemata#readme"
+}
