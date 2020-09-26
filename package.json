@@ -1,6 +1,6 @@
 {
     "name": "citeproc-csl-schemata",
-    "version": "1.0.19",
+    "version": "1.0.21",
     "description": "CSL and CSL-M schemata for citeproc-test-runner",
     "main": "getSchemaPaths.js",
     "scripts": {
